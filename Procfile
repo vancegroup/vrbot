@@ -1,1 +1,1 @@
-app: bin/hubot -a talker -n Hubot
+app: bin/hubot -a talker -n vrbot
