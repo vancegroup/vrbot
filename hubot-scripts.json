@@ -13,5 +13,6 @@
 	"location-decision-maker.coffee",
 	"github-credentials.coffee",
 	"eight-ball.coffee",
-	"auto-stache.coffee"
+	"auto-stache.coffee",
+	"disassemble.coffee"
 ]
