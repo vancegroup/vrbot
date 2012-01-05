@@ -1,1 +1,18 @@
-["redis-brain.coffee", "github-activity.coffee", "xkcd.coffee", "google-reader.coffee", "github-issues.coffee", "meme_generator.coffee", "flying-high.coffee", "inigo-montoya.coffee"]
+[
+	"redis-brain.coffee",
+	"github-activity.coffee",
+	"xkcd.coffee",
+	"google-reader.coffee",
+	"github-issues.coffee",
+	"meme_generator.coffee",
+	"flying-high.coffee",
+	"inigo-montoya.coffee",
+	"polite.coffee",
+	"uptime.coffee",
+	"ping.coffee",
+	"location-decision-maker.coffee",
+	"github-credentials.coffee",
+	"eight-ball.coffee",
+	"disassemble.coffee",
+	"auto-stache.coffee"
+]
