@@ -14,5 +14,8 @@
 	"github-credentials.coffee",
 	"eight-ball.coffee",
 	"auto-stache.coffee",
-	"disassemble.coffee"
+	"disassemble.coffee",
+	"talkative.coffee",
+	"quote.coffee"
+	
 ]
