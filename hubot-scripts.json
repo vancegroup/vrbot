@@ -3,7 +3,6 @@
 	"disassemble.coffee",
 	"eight-ball.coffee",
 	"flying-high.coffee",
-	"github-activity.coffee",
 	"github-credentials.coffee",
 	"github-issues.coffee",
 	"google-reader.coffee",
