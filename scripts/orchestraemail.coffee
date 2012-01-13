@@ -28,7 +28,8 @@ module.exports = (robot) ->
     if not listname in known_lists
       msg.reply "I don't know list #{listname}, only these: #{known_lists.join(', ')}"
       return
-    msg.reply "Creating orchestra task '#{task}' on list '#{listname}'"
+
+    #msg.reply "Creating orchestra task '#{task}' on list '#{listname}'"
 
     contents =
       text:    "Task created in Talker by #{msg.message.user.name}. @anyone #{listname}",
